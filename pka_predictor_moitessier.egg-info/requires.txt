@@ -1,8 +1,0 @@
-torch
-torch_geometric
-pandas
-numpy
-rdkit
-seaborn
-hyperopt
-scikit-learn
