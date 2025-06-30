@@ -1,0 +1,2 @@
+[console_scripts]
+pka-predictor = pka_predictor.__main__:main
